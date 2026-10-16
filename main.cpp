@@ -8,6 +8,6 @@ int main() {
     std::cin >> b;
 
     std::cout << "Введенные числа: " << a << " и " << b << std::endl;
-    std::cout << "Сумма: " << a + b << std::endl;
+    std::cout << "Разность: " << a - b << std::endl;
     return 0;
 }
