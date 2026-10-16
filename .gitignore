@@ -1,0 +1,18 @@
+# Скомпилированные файлы
+*.exe
+*.o
+*.obj
+*.out
+*.bin
+
+# Папки сборки
+build/
+dist/
+
+# Файлы IDE
+.vscode/
+.idea/
+
+# Прочее
+.DS_Store
+Thumbs.db
